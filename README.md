@@ -134,6 +134,4 @@ For any questions, feel free to open an issue!
 
 ---
 
-**Author:** Your Name  
-**License:** MIT
 
